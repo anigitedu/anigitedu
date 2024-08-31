@@ -1,11 +1,18 @@
 ![GitHub followers](https://img.shields.io/github/followers/anigitedu?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=your-github-anigitedu&color=blueviolet)
-<p></p>
 
-<h3 align="justify">Hey, I'm Animesh, Dynamic and innovative web designer and software developer with over 4 years of experience, specializing in crafting user-focused digital solutions that elevate brand identity and boost user engagement.</h3>
+## 🙋‍♂️ Hey, I'm Animesh
 
+<div style="display: flex; align-items: center;">
+  <img src="coffee.svg" width="100" alt="Coffee Cup Icon" align="right">
+  <h3>
+    Dynamic and innovative web designer and software developer with over 4 years of experience, specializing in crafting user-focused digital solutions that elevate brand identity and boost user engagement.
+  </h3>
+  
+</div>
+
+## 📫 Let's Connect: 
 <div>
-<h2>Let's Connect: </h2>
 <a href="https://www.linkedin.com/in/animeshdhole/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
@@ -16,7 +23,7 @@
 </div>
 
 
-## My TechStack ⚙️
+## 🕸️ My TechStack :
 <div style="text-align: center;">
   <table>
     <tr>
