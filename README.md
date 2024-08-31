@@ -1,15 +1,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/anigitedu?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=your-github-anigitedu&color=blueviolet)
 <p></p>
-<p align="justify">
-Hey, I am Animesh, Dynamic and innovative web designer and software developer with over 4 years of experience, specializing in crafting user-focused digital solutions that elevate brand identity and boost user engagement.
 
-</p>
-
-
+<h3 align="justify">Hey, I'm Animesh, Dynamic and innovative web designer and software developer with over 4 years of experience, specializing in crafting user-focused digital solutions that elevate brand identity and boost user engagement.</h3>
 
 <div>
-<p>Let's Connect: </p>
+<h2>Let's Connect: </h2>
 <a href="https://www.linkedin.com/in/animeshdhole/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
@@ -19,12 +15,13 @@ Hey, I am Animesh, Dynamic and innovative web designer and software developer wi
 </a>
 </div>
 
+
 ## My TechStack ⚙️
 <div style="text-align: center;">
   <table>
     <tr>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
         <br>C#
       </td>
       <td align="center" width="96">
@@ -114,28 +111,28 @@ Hey, I am Animesh, Dynamic and innovative web designer and software developer wi
         <br>Linux
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-        <br>Dart
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="dart" />
+        <br>AWS
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-        <br>RabbitMQ
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="dart" />
+        <br>Mysql
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-        <br>sentry
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="dart" />
+        <br>Java
       </td>
       <td align="center" width="96">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-        <br>Celery
+          <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="dart" />
+        <br>RaspberryPi
       </td>
       <td align="center" width="96">
-          <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-        <br>Docusaurus
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg" width="48" height="48" alt="dart" />
+        <br>AngularJS
       </td>
       <td align="center" width="96">
-          <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-        <br>Pytest
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" alt="dart" />
+        <br>ReactJS
       </td>
     </tr>
    <tr>
