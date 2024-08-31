@@ -1,13 +1,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/anigitedu?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=your-github-anigitedu&color=blueviolet)
 
-## 🙋‍♂️ Hey, I'm Animesh
+## 👨‍💻 Hey, I'm Animesh
 
 <div style="display: flex; align-items: center;">
-  <img src="coffee.svg" width="100" alt="Coffee Cup Icon" align="right">
-  <h3>
-    Dynamic and innovative web designer and software developer with over 4 years of experience, specializing in crafting user-focused digital solutions that elevate brand identity and boost user engagement.
-  </h3>
+  <img src="coffee.svg" width="120" alt="Coffee Cup Icon" align="right">
+  <samp>
+    Dynamic and innovative web designer and software developer with over 4 years of experience, specializing in crafting user-focused digital solutions that elevate brand       
+    identity and boost user engagement; with a comprehension of the software development lifecycle and a firm grasp of the technologies needed for the creation and implementation 
+    of scalable and highly available applications
+  </samp>
   
 </div>
 
