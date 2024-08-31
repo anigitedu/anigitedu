@@ -8,20 +8,24 @@
   <samp>
     Dynamic and innovative web designer and software developer with over 4 years of experience, specializing in crafting user-focused digital solutions that elevate brand       
     identity and boost user engagement; with a comprehension of the software development lifecycle and a firm grasp of the technologies needed for the creation and implementation 
-    of scalable and highly available applications
+    of scalable and highly available applications.
   </samp>
   
 </div>
 
 ## 📫 Let's Connect: 
 <div>
-<a href="https://www.linkedin.com/in/animeshdhole/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gitlab.com/anigitedu">
-<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/animeshdhole/">
+  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gitlab.com/anigitedu">
+  <img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://animeshdhole.me">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+  </a>
 </div>
 
 
@@ -151,20 +155,16 @@
 <br>
 <p align="center">
   <a href="https://github.com/anigitedu/github-readme-stats">
-    <img alt="anigitedu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anigitedu&langs_count=8&layout=donut-vertical&theme=transparent&hide_border=true&hide=Jupyter%20Notebook" height="400px"/>
+    <img alt="anigitedu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anigitedu&langs_count=8&layout=donut-vertical&theme=transparent&hide_border=true" height="400px"/>
   </a>
 </p>
 
-  <br/>
-</details>
-
-
-
-<br>
+## 📈 Activity Graph
+  
 <details>
-  <summary>Activity Graph 📈</summary>
+  <summary>View:</summary>
   <br/>
 
-[![Animesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anigitedu&bg_color=3366cc&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/anigitedu/github-readme-activity-graph)
+[![Animesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anigitedu&bg_color=2b3137&color=fafbfc&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/anigitedu/github-readme-activity-graph)
 
 </details>
